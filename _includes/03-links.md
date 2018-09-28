@@ -1,1 +1,1 @@
-[github] (https://github.com/fhwustc)
+[github](https://github.com/fhwustc)
